@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1683852991522,
+    "user": { "id": "PQVdFN6znOxLf0rW8nEw" },
+    "createdAt": { "timeInEpoch": 1683852991522 },
+    "images": [{ "format": "png", "name": "1683852991522" }],
+    "isDeleted": { "timeInEpoch": 0, "status": false },
+    "totalPrice": 271965,
+    "transactionAt": {
+      "timeInEpoch": 1683883010596,
+      "dateInEpoch": 1683247963699
+    },
+    "description": "",
+    "location": null,
+    "tag": ["bayi", "jajan"],
+    "title": "Kebutuhan anak dan jajan"
+  },
+  {
+    "id": 1683853072651,
+    "user": { "id": "PQVdFN6znOxLf0rW8nEw" },
+    "createdAt": { "timeInEpoch": 1683853072651 },
+    "images": [{ "format": "png", "name": "1683853072651" }],
+    "isDeleted": { "timeInEpoch": 0, "status": false },
+    "totalPrice": 52000,
+    "transactionAt": {
+      "timeInEpoch": 1683876519568,
+      "dateInEpoch": 1683334651399
+    },
+    "description": "",
+    "location": null,
+    "tag": ["jajan", "cimory", "semarang"],
+    "title": "Jajan di cimory semarang"
+  }
+]
